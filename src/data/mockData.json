@@ -1,0 +1,122 @@
+[
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "How many objects are equivalent to one mole?",
+    "correct_answer": "6.022 x 10^23",
+    "incorrect_answers": [
+      "6.002 x 10^22",
+      "6.022 x 10^22",
+      "6.002 x 10^23"
+    ]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Queen song was covered by Brittany Murphy in the 2006 film &quot;Happy Feet&quot;?",
+    "correct_answer": "Somebody to Love",
+    "incorrect_answers": [
+      "Under Pressure",
+      "Flash",
+      "Bohemian Rhapsody"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the US Navy spy ship which was attacked and captured by North Korean forces in 1968?",
+    "correct_answer": "USS Pueblo",
+    "incorrect_answers": [
+      "USS North Carolina",
+      "USS Constitution",
+      "USS Indianapolis"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In what year did the North American Video Game Crash occur?",
+    "correct_answer": "1983",
+    "incorrect_answers": [
+      "1982",
+      "1993",
+      "1970"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "How many total monsters appear in Monster Hunter Generations?",
+    "correct_answer": "105",
+    "incorrect_answers": [
+      "100",
+      "98",
+      "73"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?",
+    "correct_answer": "Hewlett-Packard",
+    "incorrect_answers": [
+      "Toshiba",
+      "Asus",
+      "Dell"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which church&#039;s interior in Vatican City was designed in 1503 by renaissance architects including Bramante, Michelangelo and Bernini?",
+    "correct_answer": "St. Peter&#039;s Basilica",
+    "incorrect_answers": [
+      "Catania Cathedral",
+      "St. Mark&rsquo;s Basilica",
+      "The Duomo of Florence"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In what year did the Great Northern War, between Russia and Sweden, end?",
+    "correct_answer": "1721",
+    "incorrect_answers": [
+      "1726",
+      "1727",
+      "1724"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "From where does the Nintendo video game character Mario derive his name?",
+    "correct_answer": "The landlord of the American headquarters",
+    "incorrect_answers": [
+      "Shigeru Miyamoto&#039;s father in law",
+      "Satoru Iwata&#039;s plumber",
+      "The date (Mar 10) that Donkey Kong was released."
+    ]
+  },
+  {
+    "category": "Entertainment: Comics",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In &quot;Homestuck&quot; the &quot;Kingdom of Darkness&quot; is also known as?",
+    "correct_answer": "Derse",
+    "incorrect_answers": [
+      "Skaia",
+      "Prospit",
+      "The Medium"
+    ]
+  }
+]
